@@ -37,6 +37,8 @@ I enjoy designing clean, maintainable codebases, optimizing UI rendering, and co
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma ORM"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="OracleDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
@@ -50,7 +52,7 @@ I enjoy designing clean, maintainable codebases, optimizing UI rendering, and co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="40" height="40" alt="Confluence"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="40" height="40" alt="ESLint"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" width="40" height="40" alt="Prettier"/>
+  <img src="https://simpleicons.org/icons/prettier.svg" width="40" height="40" alt="Prettier" style="background-color:white; border-radius:5px; padding:3px"/>
 </p>
 
 ---
@@ -79,44 +81,45 @@ I enjoy designing clean, maintainable codebases, optimizing UI rendering, and co
 **Project:** [Ketcher](https://lifescience.opensource.epam.com/ketcher/) — Open-source molecular structure editor  
 - Developed and optimized a React + TypeScript application.  
 - Tuned and maintained build systems (**Webpack**, **Vite**, **Rollup**).  
-- Optimized **Critical Rendering Path** for faster page load times.  
+- Optimized **Critical Rendering Path** for faster performance.  
 - Wrote and maintained unit tests with **Jest** and **Vitest**.  
 - Collaborated closely with UI/UX teams to enhance usability.  
 
-**Tech:** React, TypeScript, Webpack, Vite, Rollup, Jest, Vitest, Docker  
+**Tech:** React, TypeScript, Webpack, Vite, Rollup, Prisma, PostgreSQL, Jest, Vitest, Docker  
 
 ---
 
 ### ⚙️ Self-Service Portal for Jira & Confluence (EPAM)  
 **Jul 2023 – Apr 2025**  
-- Key developer responsible for the entire project lifecycle — from architecture to deployment.  
-- Built backend with **Node.js + Express**, and frontend with **React + Material-UI**.  
+- Key developer responsible for full project lifecycle — from architecture to deployment.  
+- Backend: **Node.js + Express + Prisma + PostgreSQL**  
+- Frontend: **React + Material-UI + Redux Toolkit**  
 - Automated Jira/Confluence provisioning (user, project, and space creation).  
-- Implemented caching and performance improvements with **OracleDB**.  
+- Implemented caching and performance improvements for OracleDB API integrations.  
 
 ---
 
 ### 📊 Visualization Tools (EPAM)  
 **Oct 2024 – Jan 2025**  
-- Lead frontend developer who delivered the project in a short time.  
-- Implemented graph visualization tools using **Graphology** and **React-Sigma**.  
-- Built a custom **PDF viewer** and data visualization UI.  
+- Lead frontend developer, delivered the project under tight deadlines.  
+- Implemented data visualization with **Graphology** and **React-Sigma**.  
+- Built an interactive **PDF viewer** and scientific data explorer.  
 
 ---
 
 ### 🧬 Electronic Lab Notebooks (EPAM)  
 **Dec 2022 – Jun 2023**  
-- Worked on integration between **Perkin Elmer** and EPAM systems.  
-- Developed modules for collecting and archiving chemical research data.  
-- Improved API performance and fixed critical UX bottlenecks.  
+- Integration between **Perkin Elmer** and EPAM systems.  
+- Developed modules for collecting and archiving scientific data.  
+- Improved API responsiveness and UI performance.  
 
 ---
 
 ### 🏭 Tydex — Frontend Developer  
 **2020 – 2021**  
 **Project:** Product Lifecycle Management Platform  
-- Developed an internal system for managing all stages of product lifecycle — from manufacturing to documentation.  
-- Designed data-driven UI components and optimized overall UX performance.  
+- Developed an internal system to manage all product lifecycle stages — from manufacturing to documentation.  
+- Built modular UI components and optimized UX.  
 **Tech:** JavaScript, React, TypeScript, Redux Toolkit, Webpack, REST API, MUI, SCSS, Git  
 
 ---
